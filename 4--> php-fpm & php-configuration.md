@@ -235,6 +235,9 @@ Paste in the content below:
     [curl]
     [openssl]
 
+## adduser
+
+    addusr ukey
 
 ##  restart php-fpm right now, with:
 
